@@ -8,10 +8,13 @@
 ## 📝 Conteúdo
 
 - [Modelo Físico](https://github.com/mateusclira/Projeto-de-dados-acidentes/tree/main/modelo_fisico)
-- Modelo Conceitual
-- Modelo Logico
-- Relatório Técnico
-- Dashboards em Power BI
+- Modelo Conceitual - Imagem abaixo
+- Modelo Logico - Imagem abaixo
+- [Relatório Técnico](https://github.com/mateusclira/Projeto-de-dados-acidentes/tree/main/Relatorio)
+- [Dashboards em Power BI](https://github.com/mateusclira/Projeto-de-dados-acidentes/tree/main/Dashboards)
+- [Vídeos Explicativos](https://github.com/mateusclira/Projeto-de-dados-acidentes/tree/main/Videos%20Explicativos)
+- [Documentos para Estudo](https://github.com/mateusclira/Projeto-de-dados-acidentes/tree/main/Documentos)
+- [Verificando Consistência do Banco](https://github.com/mateusclira/Projeto-de-dados-acidentes/tree/main/Verificando_Banco)
 
 ## <p align="center"> Abaixo a modelagem dimensional realizada por mim para esse projeto </p>
 
