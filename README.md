@@ -1,4 +1,4 @@
-# Acidentes nas Rodovias Federais Brazileiras
+# Acidentes nas Rodovias Federais Brasileiras
 
 #### Projeto de dados com predição sobre acidentes automobilísticos. Abaixo um link do youtube com um resumo.
 
