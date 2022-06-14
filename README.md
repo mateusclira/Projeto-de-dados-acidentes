@@ -1,6 +1,6 @@
-# Accidents on Brazilian Federal Highways
+# Acidentes nas Rodovias Federais Brazileiras
 
-#### Data project about prediction on automobilistic accidents. Here is a link with preview from youtube.
+#### Projeto de dados com predição sobre acidentes automobilísticos. Abaixo um link do youtube com um resumo.
 
 [![Accidents](https://github.com/mateusclira/Projeto-de-dados-acidentes/blob/main/img2/img.PNG)](https://www.youtube.com/watch?v=1nGKidPuRA4 "Car Accidents on Brazil")
 
@@ -19,5 +19,8 @@
 ## <p align="center"> Abaixo a modelagem dimensional realizada por mim para esse projeto </p>
 
 ![Modelo_conceitual](https://github.com/mateusclira/Projeto-de-dados-acidentes/blob/main/img2/Modeloconceitual.JPG)
+
+
+## <p align="center"> Abaixo a modelagem lógica realizada por mim para esse projeto </p>
 
 ![Modelo_logico](https://github.com/mateusclira/Projeto-de-dados-acidentes/blob/main/img2/Modelologico.JPG)
